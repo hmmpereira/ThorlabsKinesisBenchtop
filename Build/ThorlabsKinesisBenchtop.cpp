@@ -3,11 +3,11 @@
 // PROJECT:       Micro-Manager
 // SUBSYSTEM:     DeviceAdapters
 //-----------------------------------------------------------------------------
-// DESCRIPTION:   Control of Thorlabs stages using the APT library
+// DESCRIPTION:   Control of Thorlabs stages using the Kinesis library
 //
 // COPYRIGHT:     Emilio J. Gualda, 2012
 //                Egor Zindy, University of Manchester, 2013
-//				  Hugo M.M.	Pereira, Instituto Gulbenkian de Ciência, 2017
+//				  Hugo M.M.	Pereira, Instituto Gulbenkian de Ciencia, 2017
 //
 // LICENSE:       This file is distributed under the BSD license.
 //
@@ -19,12 +19,13 @@
 //                CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
 //                INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.
 //
-// AUTHOR:        Emilio J. Gualda, IGC, 2012
+// AUTHOR:        Hugo M.M. Pereira, Instituto Gulbenkian de Ciencia, 2017
+//				  Emilio J. Gualda, IGC, 2012
 //                Egor Zindy (egor.zindy@manchester.ac.uk)
-//                Contributions and testing (TDC001): Alfie O'Neill / Christopher Blount
+//                
 //
-// NOTES:         Needs / Tested with APT.dll v 1.0.0.3
-//                The following APT controllers have been tested:
+// NOTES:         Needs / Tested with Thorlabs.MotionControl.DeviceManager.dll
+//                The following Kinesis controllers have been tested:
 //
 //                [ ] BSC001 - 1 Ch benchtop stepper driver
 //                [X] BSC101 - 1 Ch benchtop stepper driver
