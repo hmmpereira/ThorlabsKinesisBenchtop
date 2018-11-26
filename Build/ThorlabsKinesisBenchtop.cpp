@@ -19,7 +19,7 @@
 //                CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
 //                INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.
 //
-// AUTHOR:        Hugo M.M. Pereira, Instituto Gulbenkian de Ciencia, 2017
+// AUTHOR:        Hugo M.M.A. Pereira, Instituto Gulbenkian de Ciencia, 2017
 //				  Emilio J. Gualda, IGC, 2012
 //                Egor Zindy (egor.zindy@manchester.ac.uk)
 //                
